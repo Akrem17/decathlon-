@@ -1,0 +1,25 @@
+<div class="body">
+<div class="container ">
+
+        <div class="row ">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+      <form [formGroup]="myForm" (ngSubmit)="onSubmit(myForm)">
+        <div class="form-group" >
+          <label for="exampleInputEmail1">Email</label>
+          <input formControlName="email" placeholder="Your Email" type="text" class="form-control" id="r" aria-describedby="emailHelp">
+        </div>
+        <div class="form-group" >
+                <label for="exampleInputEmail1">Password</label>
+                <input formControlName="Password" placeholder="Your Password" type="password" class="form-control" id="r" aria-describedby="emailHelp">
+              </div>
+           <div class="center">
+        <button type="submit" class="btn">Login</button>
+           </div>
+      </form>
+    </div>
+    </div>
+    
+
+  </div>
+    </div>

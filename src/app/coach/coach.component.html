@@ -1,0 +1,22 @@
+<div class="container" *ngIf='coachs'>
+ 
+        <div class="row" >
+            <div *ngFor='let item of coachs' >
+            <div class="card" style="width: 18rem;">
+                    <img src="{{item.pic}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">{{item.name}}</h5>
+                      <p class="card-text">{{item.description}}</p>
+                      <p class="test">
+                        <a  href="#" class="btn btn-primary ">Contact</a>
+                      </p>
+    
+                      </div>
+                  </div>
+                </div>
+                 
+    </div>
+    
+    
+    
+    </div>

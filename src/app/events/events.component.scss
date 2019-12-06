@@ -1,0 +1,32 @@
+.card{
+
+    margin: 50px 50px 50px 0px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+    font-size: 13px;
+    
+}
+
+.container{
+   padding-left: 80px;
+}
+.test{
+    text-align: center !important;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+
+.body{
+   
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../../assets/events1.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+  
+    font-family: 'Quicksand', sans-serif;
+}
