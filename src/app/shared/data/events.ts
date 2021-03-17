@@ -3,8 +3,8 @@ import { EVENT } from '../event';
 export const events: EVENT[] = [
    {
       id:"0",
-      name: "cycling",
-      pic: "../assets/aa.png",
+      name: "cyclisme",
+      pic: "../assets/bb.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
       date: "17/07/19",
@@ -12,8 +12,8 @@ export const events: EVENT[] = [
      }, {
       id:"1",
 
-      name: "Swimming",
-      pic: "../assets/aa.png",
+      name: "nataion",
+      pic: "../assets/cc.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
       date: "17/07/19",
@@ -21,8 +21,8 @@ export const events: EVENT[] = [
      }, {
       id:"2",
 
-      name: "Football ",
-      pic: "../assets/aa.png",
+      name: "football ",
+      pic: "../assets/dd.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
       date: "17/07/19",
@@ -30,7 +30,7 @@ export const events: EVENT[] = [
      }, {
       id:"3",
 
-      name: "TEST",
+      name: "tenis",
       pic: "../assets/aa.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
@@ -39,8 +39,8 @@ export const events: EVENT[] = [
      }, {
       id:"4",
 
-      name: "GZER",
-      pic: "../assets/aa.png",
+      name: "course",
+      pic: "../assets/ff.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
       date: "17/07/19",
@@ -48,8 +48,8 @@ export const events: EVENT[] = [
      }, {
       id:"5",
 
-      name: "KTIBA",
-      pic: "../assets/aa.png",
+      name: "bataille",
+      pic: "../assets/ll.png",
       description: "   sheets containing , and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
   
       date: "17/07/19",
